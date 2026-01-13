@@ -1,0 +1,12 @@
+{
+	"主页url": "https://app.thyys.vip/",
+	"直接播放": "1",
+	"搜索模式": "1",
+	"数组": "<li class=\"vodlist_hang5 num_&&<div class=\"vodlist_titbox\">",
+	"图片": "data-original=\"&&\"",
+	"标题": "title=\"&&\"",
+	"链接": "https://app.thyys.vip/vodplay/+href=\"/voddetail/&&.html\"+-1-1.html",
+	"搜索url": "https://app.thyys.vip/vodsearch/{wd}----------{pg}---.html",
+    "分类url": "https://app.thyys.vip/vodshow/{cateId}--------{catePg}---.html",
+    "分类": "有码$1#无码$4#国产$2#欧美$3#动漫$5#中文有码$7#日本有码$8#国产精品$10#溏心Vlog$13#欧美性爱$11#中文无码$6#日本无码$9#卡通动漫$12"
+}
