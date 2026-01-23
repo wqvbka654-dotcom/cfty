@@ -7,18 +7,18 @@
             "api": "csp_XMVideo",
             "searchable": 1,
             "filterable": 1,
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/jar/182.jar"
+            "jar": "./jar/182.jar"
         },
         {
             "key": "cftymb2",
             "name": "🔞CFTY秒播2",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/jar/xbpq2.jar",
+            "jar": "./jar/xbpq2.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/json/pp.json"
+            "ext": "./json/pp.json"
         },
         {
             "key": "瑟瑟",
@@ -27,7 +27,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "api": "https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/py/瑟瑟.py",
+            "api": "./PY/瑟瑟.py",
             "order_num": 5,
             "ext": ""
         },
@@ -40,8 +40,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/jar/lge.jar",
-            "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/json/%E4%B8%80%E5%8C%BA.json"
+            "jar": "./jar/lge.jar",
+            "ext": "./json/一区.json"
         },
         {
             "key": "四虎py",
@@ -50,7 +50,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/py/四虎.py",
+            "api": "./py/四虎.py",
             "order_num": 5,
             "ext": ""
         },
@@ -59,24 +59,24 @@
             "name": "🔞桃花源",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/json/taohua.json",
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/jar/lge.jar"
+            "ext": "./json/桃花源.json",
+            "jar": "./jar/lge.jar"
         },
         {
             "key": "猎奇",
             "name": "🔞猎奇之家",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/json/猎奇之家.json",
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/jar/xbpq.jar"
+            "ext": "./json/猎奇之家.json",
+            "jar": "./jar/xbpq.jar"
         },
         {
             "key": "草榴",
             "name": "🔞草榴视频",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/json/草榴.json",
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/jar/xbpq.jar"
+            "ext": "./json/草榴.json",
+            "jar": "./jar/xbpq.jar"
         },
         {
             "key": "lav.py",
@@ -85,7 +85,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/py/lav.py",
+            "api": "./py/lav.py",
             "order_num": 5,
             "ext": ""
         },
@@ -93,7 +93,7 @@
             "key": "采集合集py",
             "name": "🔞CFTY采集",
             "type": 3,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/py/采集合集.py",
+            "api": "./py/采集合集.py",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
@@ -105,7 +105,7 @@
             "key": "18",
             "name": "🔞18",
             "type": 3,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/py/18.py",
+            "api": "./py/18.py",
             "style": {
                 "type": "rect",
                 "ratio": 1.33
@@ -116,7 +116,7 @@
             "key": "madou",
             "name": "🔞麻豆",
             "type": 3,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/js/麻豆.js",
+            "api": "./js/麻豆.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
@@ -125,7 +125,7 @@
             "key": "51大赛",
             "name": "🔞51大赛",
             "type": 3,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/py/51大赛.py",
+            "api": "./py/51大赛.py",
             "style": {
                 "type": "rect",
                 "ratio": 1.33
@@ -136,7 +136,7 @@
             "key": "每日大赛",
             "name": "🔞每日大赛",
             "type": 3,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/py/每日大赛.py",
+            "api": "./py/每日大赛.py",
             "style": {
                 "type": "rect",
                 "ratio": 1.33
@@ -147,7 +147,7 @@
             "key": "每日大乱斗",
             "name": "🔞每日大乱斗",
             "type": 3,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/py/每日大乱斗.py",
+            "api": "./py/每日大乱斗.py",
             "style": {
                 "type": "rect",
                 "ratio": 1.33
@@ -158,7 +158,7 @@
             "key": "黑料不打样",
             "name": "🔞黑料不打烊",
             "type": 3,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/py/黑料不打烊.py",
+            "api": "./py/黑料不打烊.py",
             "style": {
                 "type": "rect",
                 "ratio": 1.33
@@ -169,7 +169,7 @@
             "key": "今日看料",
             "name": "🔞今日看料",
             "type": 3,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/py/今日看料.py",
+            "api": "./py/今日看料.py",
             "style": {
                 "type": "rect",
                 "ratio": 1.33
@@ -180,7 +180,7 @@
             "key": "91吃瓜中心",
             "name": "🔞91吃瓜中心",
             "type": 3,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/py/91吃瓜中心.py",
+            "api": "./py/91吃瓜中心.py",
             "style": {
                 "type": "rect",
                 "ratio": 1.33
@@ -191,7 +191,7 @@
             "key": "911",
             "name": "🔞911吃瓜中心",
             "type": 3,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/py/911.py",
+            "api": "./py/911.py",
             "style": {
                 "type": "rect",
                 "ratio": 1.33
@@ -202,7 +202,7 @@
             "key": "818黑料网",
             "name": "🔞818黑料网",
             "type": 3,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/py/818黑料网.py",
+            "api": "./py/818黑料网.py",
             "style": {
                 "type": "rect",
                 "ratio": 1.33
@@ -213,7 +213,7 @@
             "key": "51视频",
             "name": "🔞51视频",
             "type": 3,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/py/51视频.py",
+            "api": "./py/51视频.py",
             "style": {
                 "type": "rect",
                 "ratio": 1.33
@@ -224,7 +224,7 @@
             "key": "51爆料",
             "name": "🔞51爆料",
             "type": 3,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/py/51爆料.py",
+            "api": "./py/51爆料.py",
             "style": {
                 "type": "rect",
                 "ratio": 1.33
@@ -235,7 +235,7 @@
             "key": "51暗网",
             "name": "🔞51暗网",
             "type": 3,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/py/51暗网.py",
+            "api": "./py/51暗网.py",
             "style": {
                 "type": "rect",
                 "ratio": 1.33
@@ -246,7 +246,7 @@
             "key": "高清xxxx黑料",
             "name": "🔞高清xxxx黑料",
             "type": 3,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/py/高清xxxx黑料.py",
+            "api": "./py/高清xxxx黑料.py",
             "style": {
                 "type": "rect",
                 "ratio": 1.33
@@ -257,7 +257,7 @@
             "key": "菠萝7区",
             "name": "🔞菠萝7区",
             "type": 3,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/py/菠萝7区.py",
+            "api": "./py/菠萝7区.py",
             "style": {
                 "type": "rect",
                 "ratio": 1.33
@@ -268,7 +268,7 @@
             "key": "禁漫天堂",
             "name": "🔞禁漫天堂",
             "type": 3,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/py/禁漫天堂.py",
+            "api": "./py/禁漫天堂.py",
             "style": {
                 "type": "rect",
                 "ratio": 1.33
@@ -279,7 +279,7 @@
             "key": "溏心次元",
             "name": "🔞溏心次元",
             "type": 3,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/py/溏心次元.py",
+            "api": "./py/溏心次元.py",
             "style": {
                 "type": "rect",
                 "ratio": 1.33
@@ -290,7 +290,7 @@
             "key": "91rb",
             "name": "🔞91热播",
             "type": 3,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/py/91rb.py",
+            "api": "./py/91rb.py",
             "style": {
                 "type": "rect",
                 "ratio": 1.33
@@ -301,7 +301,7 @@
             "key": "四虎虎",
             "name": "🔞四虎虎视频",
             "type": 3,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/py/四虎虎.py",
+            "api": "./py/四虎虎.py",
             "style": {
                 "type": "rect",
                 "ratio": 1.33
@@ -312,7 +312,7 @@
             "key": "吃瓜网",
             "name": "🔞吃瓜网",
             "type": 3,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/py/吃瓜网.py",
+            "api": "./py/吃瓜网.py",
             "style": {
                 "type": "rect",
                 "ratio": 1.33
@@ -324,76 +324,76 @@
             "name": "🔞91速播",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/jar/lge.jar",
+            "jar": "./jar/lge.jar",
             "searchable": 1,
             "style": {
                 "ratio": 1.43
             },
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/json/91速播.json"
+            "ext": "./json/91速播.json"
         },
         {
             "key": "公子别走",
             "name": "🔞公子别走",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/jar/xyqxbpq.jar",
+            "jar": "./jar/xyqxbpq.jar",
             "searchable": 1,
             "style": {
                 "ratio": 1.43
             },
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/json/公子别走.json"
+            "ext": "./json/公子别走.json"
         },
         {
             "key": "咪咪女孩",
             "name": "🔞咪咪女孩",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/jar/xyqxbpq.jar",
+            "jar": "./jar/xyqxbpq.jar",
             "searchable": 1,
             "style": {
                 "ratio": 1.43
             },
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/json/咪咪女孩.json"
+            "ext": "./json/咪咪女孩.json"
         },
         {
             "key": "PandaAV",
             "name": "🔞PandaAV",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/jar/xyqxbpq.jar",
+            "jar": "./jar/xyqxbpq.jar",
             "searchable": 1,
             "style": {
                 "ratio": 1.43
             },
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/json/PandaAV.json"
+            "ext": "./json/PandaAV.json"
         },
         {
             "key": "AV帝国",
             "name": "🔞AV帝国",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/jar/XBPQ.jar",
+            "jar": "./jar/XBPQ.jar",
             "searchable": 1,
             "style": {
                 "ratio": 1.43
             },
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/json/AV帝国.json"
+            "ext": "./json/AV帝国.json"
         },
         {
             "key": "lsp传媒",
             "name": "🔞lsp传媒",
             "type": 3,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/py/lsp传媒.py",
+            "api": "./py/lsp传媒.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
@@ -404,7 +404,7 @@
             "key": "午夜",
             "name": "🔞午夜影院",
             "type": 3,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/py/午夜.py",
+            "api": "./py/午夜.py",
             "style": {
                 "type": "rect",
                 "ratio": 1.33
@@ -415,7 +415,7 @@
             "key": "黑料弹幕",
             "name": "🔞黑料弹幕版",
             "type": 3,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/py/黑料弹幕版.py",
+            "api": "./PY/黑料弹幕版.py",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -425,7 +425,7 @@
             "key": "js_ying_hua",
             "name": "🔞樱花视频优质(js)",
             "type": 3,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/js/樱花视频.min.js",
+            "api": "./js/樱花视频.min.js",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
@@ -437,23 +437,23 @@
             "name": "🔞JAV免费",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/jar/xbpq.jar",
-            "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/json/jav免费.json"
+            "jar": "./jar/xbpq.jar",
+            "ext": "./json/jav免费.json"
         },
         {
             "key": "无限",
             "name": "🔞无限臀山",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/jar/xbpq.jar",
-            "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/json/无限臀山.json"
+            "jar": "./jar/xbpq.jar",
+            "ext": "./json/无限臀山.json"
         },
         {
             "key": "精品AV",
             "name": "🔞精品TV",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/jar/lge.jar",
+            "jar": "./jar/lge.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
@@ -484,7 +484,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/jar/lge.jar",
+            "jar": "./jar/lge.jar",
             "ext": {
                 "主页url": "https://www.ggyy.app",
                 "数组": "<section class=\"item-box\">&&</a>",
@@ -512,7 +512,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/jar/lge.jar",
+            "jar": "./jar/lge.jar",
             "ext": {
                 "数组": "class=\"grid_item&&</a>",
                 "图片": "src=\"&&\"",
@@ -535,7 +535,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/jar/lge.jar",
+            "jar": "./jar/lge.jar",
             "ext": {
                 "数组": "<section class=\"item-box\">&&</a>",
                 "图片": "src=\"&&\"",
@@ -566,7 +566,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/jar/lge.jar",
+            "jar": "./jar/lge.jar",
             "ext": {
                 "数组": "video-item space-sm\">&&</div></div>",
                 "图片": "data-original=\"&&\"",
@@ -589,7 +589,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/jar/lge.jar",
+            "jar": "./jar/lge.jar",
             "ext": {
                 "数组": "vid_thumbainl\">&&</div>",
                 "图片": "src=\"&&\"",
@@ -611,7 +611,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/jar/lge.jar",
+            "jar": "./jar/lge.jar",
             "ext": {
                 "数组": "<div class=\"item&&</a",
                 "图片": "data-original=\"&&\"",
@@ -633,7 +633,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/jar/lge.jar",
+            "jar": "./jar/lge.jar",
             "ext": {
                 "主页url": "https://javbus.sbs/",
                 "数组": "class=\"myui-vodlist__box&&</div>",
@@ -682,7 +682,7 @@
                 "分类ID": "/gaotype/&&.html",
                 "分类url": "https://www.34gaobk.com/gaotype/{cateId}_{catePg}.html[https://www.34gaobk.com/gaotype/{cateId}.html]"
             },
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/jar/hl.jar"
+            "jar": "./jar/hl.jar"
         },
         {
             "key": "jable",
@@ -693,7 +693,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "api": "csp_XBPQ",
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/jar/lge.jar",
+            "jar": "./jar/lge.jar",
             "ext": {
                 "直接播放": "1",
                 "搜索模式": "1",
@@ -724,7 +724,7 @@
                 "type": "rect",
                 "ratio": 1.5
             },
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/jar/lge.jar",
+            "jar": "./jar/lge.jar",
             "ext": {
                 "主页url": "https://www.niceav1010.sbs/",
                 "地址发布url": "https://fuliwz.neocities.org/niceav/",
@@ -745,7 +745,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/jar/lge.jar",
+            "jar": "./jar/lge.jar",
             "ext": {
                 "发布地址": "https://eitha--ytf.anyeav018.xyz/%E4%B8%96%E7%95%8C%E5%92%8C%E5%B9%B3/",
                 "主页url": "https://ray-ship-toy.sexav-001.com/ssss",
@@ -774,7 +774,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/jar/lge.jar",
+            "jar": "./jar/lge.jar",
             "ext": {
                 "数组": "<div class=\"v-pic\">&&</li>",
                 "图片": "data-src=\"&&\"",
@@ -806,7 +806,7 @@
                 "type": "rect",
                 "ratio": 1.5
             },
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/jar/lge.jar",
+            "jar": "./jar/lge.jar",
             "ext": {
                 "直接播放": 1,
                 "主页url": "https://airav.io/list",
@@ -832,7 +832,7 @@
             "style": {
                 "ratio": 1.7
             },
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/jar/lge.jar",
+            "jar": "./jar/lge.jar",
             "ext": {
                 "搜索url": "http://gcmd.cc/index.php/vod/search/page/{pg}/wd/{wd}.html",
                 "搜索后缀": "/index.php/vod/play/id/",
@@ -847,7 +847,7 @@
             "key": "野鸡TV",
             "name": "🔞野鸡🐔TV",
             "type": 3,
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/jar/xyqxbpq.jar",
+            "jar": "./jar/xyqxbpq.jar",
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
@@ -879,7 +879,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/jar/lge.jar",
+            "jar": "./jar/lge.jar",
             "ext": {
                 "请求头": "手机",
                 "站名": "比卡比卡",
@@ -902,7 +902,7 @@
             "key": "迷死2代",
             "name": "🔞MISS2",
             "type": 3,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/py/missav2.py",
+            "api": "./py/missav2.py",
             "style": {
                 "type": "rect",
                 "ratio": 1.33
@@ -913,8 +913,8 @@
             "key": "🈲JAVXX[🈲]",
             "name": "🔞JAVXX",
             "type": 3,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/js/drpy2.min.js",
-            "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/js/JAVXX.js"
+            "api": "./js/drpy2.min.js",
+            "ext": "./js/JAVXX.js"
         },
         {
             "key": "javxx嗅探",
@@ -923,7 +923,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/py/javxx嗅探.py",
+            "api": "./py/javxx嗅探.py",
             "ext": {
                 "proxy": {},
                 "plp": ""
@@ -936,7 +936,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/py/撸先生.py",
+            "api": "./py/撸先生.py",
             "order_num": 5,
             "ext": ""
         },
@@ -950,13 +950,13 @@
             "filterable": 1,
             "timeout": 60,
             "ext": "null$$$null$$$1",
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/jar/moyu.jar"
+            "jar": "./jar/moyu.jar"
         },
         {
             "key": "推特",
             "name": "🔞推特视频",
             "type": 3,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/py/推特.py",
+            "api": "./py/推特.py",
             "style": {
                 "type": "rect",
                 "ratio": 1.33
@@ -967,7 +967,7 @@
             "key": "老美",
             "name": "🔞欧美",
             "type": 3,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/py/欧美.py",
+            "api": "./py/欧美.py",
             "style": {
                 "type": "rect",
                 "ratio": 1.33
@@ -978,7 +978,7 @@
             "key": "fullhd",
             "name": "🔞fullhd",
             "type": 3,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/py/fullhd.py",
+            "api": "./py/fullhd.py",
             "style": {
                 "type": "rect",
                 "ratio": 1.33
@@ -989,7 +989,7 @@
             "key": "live",
             "name": "🔞色播集合",
             "type": 3,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/py/live.py",
+            "api": "./py/live.py",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
@@ -998,7 +998,7 @@
             "key": "live韩",
             "name": "🔞熊猫直播韩",
             "type": 3,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/py/熊猫.py",
+            "api": "./py/熊猫.py",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -1007,7 +1007,7 @@
             "key": "hanime",
             "name": "🔞动漫hanime",
             "type": 3,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/py/Hanime.py",
+            "api": "./py/Hanime.py",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
@@ -1016,7 +1016,7 @@
             "key": "js_138FM",
             "name": "🔞138FM",
             "type": 3,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/js/138FM.js",
+            "api": "./js/138FM.js",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
@@ -1027,7 +1027,7 @@
             "key": "139fm",
             "name": "🔞139fm多分类",
             "type": 3,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/py/139fm多分类.py",
+            "api": "./py/139fm多分类.py",
             "style": {
                 "type": "rect",
                 "ratio": 1.33
@@ -1038,7 +1038,7 @@
             "key": "yousheng",
             "name": "🔞有声小说",
             "type": 3,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/py/有声小说.py",
+            "api": "./py/有声小说.py",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
@@ -1047,7 +1047,7 @@
             "key": "uaa",
             "name": "🔞uaa有声",
             "type": 3,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/py/uaa有声.py",
+            "api": "./py/uaa有声.py",
             "style": {
                 "type": "rect",
                 "ratio": 1.33
@@ -1058,7 +1058,7 @@
             "key": "cam4",
             "name": "🔞cam4直播",
             "type": 3,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/py/cam4.py",
+            "api": "./py/cam4.py",
             "style": {
                 "type": "rect",
                 "ratio": 1.33
@@ -1070,11 +1070,11 @@
             "name": "🔞台湾kiss",
             "type": 3,
             "api": "csp_XYQHiker",
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/jar/xyq.jar",
+            "jar": "./jar/xyq.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/json/台湾kiss.json",
+            "ext": "./json/台湾kiss.json",
             "style": {
                 "type": "rect",
                 "ratio": 1.8
@@ -1085,11 +1085,11 @@
             "name": "🔞亚色影库",
             "type": 3,
             "api": "csp_XYQHiker",
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/jar/xyq.jar",
+            "jar": "./jar/xyq.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/json/亚色影库.json",
+            "ext": "./json/亚色影库.json",
             "style": {
                 "type": "rect",
                 "ratio": 1.8
@@ -1100,11 +1100,11 @@
             "name": "🔞hohoj",
             "type": 3,
             "api": "csp_XYQHiker",
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/jar/xyq.jar",
+            "jar": "./jar/xyq.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/json/hohoj.json",
+            "ext": "./json/hohoj.json",
             "style": {
                 "type": "rect",
                 "ratio": 1.8
@@ -1114,7 +1114,7 @@
             "key": "epo",
             "name": "🔞epo",
             "type": 3,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/py/epo.py",
+            "api": "./py/epo.py",
             "style": {
                 "type": "rect",
                 "ratio": 1.33
@@ -1125,7 +1125,7 @@
             "key": "Pornhub",
             "name": "🔞Pornhub",
             "type": 3,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/py/Pornhub.py",
+            "api": "./py/Pornhub.py",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
@@ -1143,7 +1143,7 @@
             "key": "ThePornpy",
             "name": "🔞ThePorn2",
             "type": 3,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/py/ThePorn.py",
+            "api": "./py/ThePorn.py",
             "style": {
                 "type": "rect",
                 "ratio": 1.33
@@ -1172,7 +1172,7 @@
             "key": "Xhamster",
             "name": "🔞Xhamster",
             "type": 3,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/py/Xhamster.py",
+            "api": "./py/Xhamster.py",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
@@ -1214,7 +1214,7 @@
             "key": "Xvideos",
             "name": "🔞Xvideos",
             "type": 3,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/py/Xvideos.py",
+            "api": "./py/Xvideos.py",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
@@ -1223,7 +1223,7 @@
             "key": "聚合PY",
             "name": "🔞聚合py",
             "type": 3,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/py/色播聚合2.py",
+            "api": "./py/色播聚合2.py",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
@@ -1244,7 +1244,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/py/好色.py",
+            "api": "./py/好色.py",
             "order_num": 5,
             "ext": ""
         },
@@ -1255,7 +1255,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/py/Phb.py",
+            "api": "./py/Phb.py",
             "order_num": 5,
             "ext": ""
         },
@@ -1266,7 +1266,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/py/51吸瓜动态版.py",
+            "api": "./py/51吸瓜动态版.py",
             "order_num": 5,
             "ext": ""
         },
@@ -1288,7 +1288,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/py/黑料.py",
+            "api": "./py/黑料.py",
             "order_num": 5,
             "ext": ""
         },
@@ -1299,7 +1299,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/py/九个区.py",
+            "api": "./py/九个区.py",
             "order_num": 5,
             "ext": ""
         },
@@ -1310,7 +1310,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/py/香蕉.py",
+            "api": "./py/香蕉.py",
             "order_num": 5,
             "ext": ""
         },
@@ -1321,7 +1321,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/py/小红薯APP.py",
+            "api": "./py/小红薯APP.py",
             "order_num": 5,
             "ext": ""
         },
@@ -1334,7 +1334,7 @@
             "filterable": 1,
             "changeable": 1,
             "api": "csp_XBPQ",
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/jar/XBPQ.jar",
+            "jar": "./jar/XBPQ.jar",
             "ext": {
                 "作者": "",
                 "站名": "",
@@ -1387,7 +1387,7 @@
             "name": "🔞快递",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/jar/XBPQ.jar",
+            "jar": "./jar/XBPQ.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -1411,11 +1411,11 @@
             "name": "🔞Bad.news(XYQHiker)",
             "type": 3,
             "api": "csp_XYQHiker",
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/jar/xyq.jar",
+            "jar": "./jar/xyq.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/json/badnews.json",
+            "ext": "./json/badnews.json",
             "style": {
                 "type": "rect",
                 "ratio": 1.8
@@ -1426,11 +1426,11 @@
             "name": "🔞Bad.news搜索AV(XYQHiker)",
             "type": 3,
             "api": "csp_XYQHiker",
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/jar/xyq.jar",
+            "jar": "./jar/xyq.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/json/badnews搜索1.json",
+            "ext": "./json/badnews搜索1.json",
             "style": {
                 "type": "rect",
                 "ratio": 1.8
@@ -1441,11 +1441,11 @@
             "name": "🔞52av论坛(XYQHiker)",
             "type": 3,
             "api": "csp_XYQHiker",
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/jar/xyq.jar",
+            "jar": "./jar/xyq.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/json/52av2.json",
+            "ext": "./json/52av2.json",
             "style": {
                 "type": "rect",
                 "ratio": 1.8
@@ -1456,11 +1456,11 @@
             "name": "🔞JAVDAYTV(XYQHiker)",
             "type": 3,
             "api": "csp_XYQHiker",
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/jar/xyq.jar",
+            "jar": "./jar/xyq.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/json/javday.json",
+            "ext": "./json/javday.json",
             "style": {
                 "type": "rect",
                 "ratio": 1.6
@@ -1471,11 +1471,11 @@
             "name": "🔞18jtv(XYQHiker)",
             "type": 3,
             "api": "csp_XYQHiker",
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/jar/xyq.jar",
+            "jar": "./jar/xyq.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/json/18jtv.json",
+            "ext": "./json/18jtv.json",
             "style": {
                 "type": "rect",
                 "ratio": 1.6
@@ -1486,11 +1486,11 @@
             "name": "🔞XNXX(XYQHiker)",
             "type": 3,
             "api": "csp_XYQHiker",
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/jar/xyq.jar",
+            "jar": "./jar/xyq.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/json/xnxx.json",
+            "ext": "./json/xnxx.json",
             "style": {
                 "type": "rect",
                 "ratio": 1.6
@@ -1501,11 +1501,11 @@
             "name": "🔞Njavtv(XYQHiker)",
             "type": 3,
             "api": "csp_XYQHiker",
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/jar/xyq.jar",
+            "jar": "./jar/xyq.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/json/njavtv.json",
+            "ext": "./json/njavtv.json",
             "style": {
                 "type": "rect",
                 "ratio": 1.6
@@ -1516,11 +1516,11 @@
             "name": "🔞MissAV.app",
             "type": 3,
             "api": "csp_XYQHiker",
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/jar/xyq.jar",
+            "jar": "./jar/xyq.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/json/missav.app.json",
+            "ext": "./json/missav.app.json",
             "style": {
                 "type": "rect",
                 "ratio": 1.6
@@ -1531,7 +1531,7 @@
             "name": "🔞爱豆传媒",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/jar/XBPQ.jar",
+            "jar": "./jar/XBPQ.jar",
             "ext": {
                 "主页url": "https://rourou.co/",
                 "直接播放": "1",
@@ -1549,11 +1549,11 @@
             "name": "🔞91porn_asia",
             "type": 3,
             "api": "csp_XYQHiker",
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/jar/xyq.jar",
+            "jar": "./jar/xyq.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/json/91porn_asia.json",
+            "ext": "./json/91porn_asia.json",
             "style": {
                 "type": "rect",
                 "ratio": 1.75
@@ -1564,11 +1564,11 @@
             "name": "🔞Jable④",
             "type": 3,
             "api": "csp_XYQHiker",
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/jar/xyq.jar",
+            "jar": "./jar/xyq.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/json/jable.json",
+            "ext": "./json/jable.json",
             "style": {
                 "type": "rect",
                 "ratio": 1.6
@@ -1579,8 +1579,8 @@
             "name": "🔞JAVDAY",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/jar/XBPQ.jar",
-            "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/jar/XBPQ.jar",
+            "jar": "./jar/XBPQ.jar",
+            "spider": "./jar/XBPQ.jar",
             "ext": {
                 "主页url": "https://javday.tv/",
                 "直接播放": "1",
@@ -1598,7 +1598,7 @@
             "key": "911爆料网",
             "name": "🔞911爆料网",
             "type": 3,
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/jar/xyqxbpq.jar",
+            "jar": "./jar/xyqxbpq.jar",
             "api": "csp_XBPQ",
             "ext": {
                 "作者": "✨集✨",
@@ -1633,7 +1633,7 @@
             "name": "🔞影片库",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/jar/XBPQ.jar",
+            "jar": "./jar/XBPQ.jar",
             "ext": {
                 "站名": "影片库lugiao.top",
                 "主页url": "https://you.lugiao12.top/",
@@ -1645,7 +1645,7 @@
             "key": "色播",
             "name": "🔞色播直播",
             "type": 3,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/js/apiv2134色播.js",
+            "api": "./js/apiv2134色播.js",
             "searchable": 1,
             "changeable": 0
         },
@@ -1654,35 +1654,35 @@
             "name": "🔞七色谷",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/jar/xyqxbpq.jar",
+            "jar": "./jar/xyqxbpq.jar",
             "searchable": 1,
             "style": {
                 "ratio": 1.43
             },
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/json/七色谷.json"
+            "ext": "./json/七色谷.json"
         },
         {
             "key": "Aress",
             "name": "🔞JAV菜单",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/jar/XBPQ.jar",
+            "jar": "./jar/XBPQ.jar",
             "searchable": 1,
             "style": {
                 "ratio": 1.43
             },
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/json/Aress.json"
+            "ext": "./json/Aress.json"
         },
         {
             "key": "tyav",
             "name": "🔞cftyav",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/jar/XBPQ.jar",
+            "jar": "./jar/XBPQ.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -1708,19 +1708,19 @@
             "name": "🔞jav",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/jar/xyqxbpq.jar",
+            "jar": "./jar/xyqxbpq.jar",
             "searchable": 1,
             "style": {
                 "ratio": 1.43
             },
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/json/jav.json"
+            "ext": "./json/jav.json"
         },
         {
             "key": "榨汁",
             "name": "🔞榨汁姐",
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/jar/xyqxbpq.jar",
+            "jar": "./jar/xyqxbpq.jar",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -1744,25 +1744,25 @@
             "name": "🔞花都",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/jar/xyqxbpq.jar",
+            "jar": "./jar/xyqxbpq.jar",
             "searchable": 1,
             "style": {
                 "ratio": 1.43
             },
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/json/花都.json"
+            "ext": "./json/花都.json"
         },
         {
             "key": "csp_XYQHiker_av6k",
             "name": "🔞JAV6K",
             "type": 3,
             "api": "csp_XYQHiker",
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/jar/xyq.jar",
+            "jar": "./jar/xyq.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/json/av6k.json",
+            "ext": "./json/av6k.json",
             "style": {
                 "type": "rect",
                 "ratio": 1.6
@@ -1773,11 +1773,11 @@
             "name": "🔞javtsunami",
             "type": 3,
             "api": "csp_XYQHiker",
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/jar/xyq.jar",
+            "jar": "./jar/xyq.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/json/javtsunami.json",
+            "ext": "./json/javtsunami.json",
             "style": {
                 "type": "rect",
                 "ratio": 1.6
@@ -1789,19 +1789,19 @@
             "type": 3,
             "api": "csp_XBPQ",
             "filterable": 1,
-            "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/json/色花堂1.json",
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/jar/XBPQ.jar"
+            "ext": "./json/色花堂1.json",
+            "jar": "./jar/XBPQ.jar"
         },
         {
             "key": "csp_XYQHiker_kanav",
             "name": "🔞KANAV",
             "type": 3,
             "api": "csp_XYQHiker",
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/jar/xyq.jar",
+            "jar": "./jar/xyq.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/json/kanav.json",
+            "ext": "./json/kanav.json",
             "style": {
                 "type": "rect",
                 "ratio": 1.6
@@ -1812,7 +1812,7 @@
             "name": "🔞ppp",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/jar/XBPQ.jar",
+            "jar": "./jar/XBPQ.jar",
             "style": {
                 "type": "rect",
                 "ratio": 1.6
@@ -1829,11 +1829,11 @@
             "name": "🔞pornhub",
             "type": 3,
             "api": "csp_XYQHiker",
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/jar/xyq.jar",
+            "jar": "./jar/xyq.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/json/pornhub.json",
+            "ext": "./json/pornhub.json",
             "style": {
                 "type": "rect",
                 "ratio": 1.6
@@ -1844,11 +1844,11 @@
             "name": "🔞Qinav",
             "type": 3,
             "api": "csp_XYQHiker",
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/jar/xyq.jar",
+            "jar": "./jar/xyq.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/json/qinav.json",
+            "ext": "./json/qinav.json",
             "style": {
                 "type": "rect",
                 "ratio": 1.6
@@ -1859,23 +1859,23 @@
             "name": "🔞女优色库",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/jar/XBPQ.jar",
-            "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/jar/XBPQ.jar",
+            "jar": "./jar/XBPQ.jar",
+            "spider": "./jar/XBPQ.jar",
             "style": {
                 "ratio": 1.7
             },
-            "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/json/女优.json"
+            "ext": "./json/女优.json"
         },
         {
             "key": "csp_XYQHiker_日日撸",
             "name": "🔞每日一撸",
             "type": 3,
             "api": "csp_XYQHiker",
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/jar/xyq.jar",
+            "jar": "./jar/xyq.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/json/日日撸.json",
+            "ext": "./json/日日撸.json",
             "style": {
                 "type": "rect",
                 "ratio": 1.6
@@ -1885,7 +1885,7 @@
             "key": "仓库快速",
             "name": "🔞黄仓秒播",
             "type": 3,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/py/仓库快速.py",
+            "api": "./py/仓库快速.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
@@ -1896,14 +1896,14 @@
             "key": "自动追踪",
             "name": "🔞黄仓动态js",
             "type": 3,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/js/drpy2.min.js",
-            "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/js/黄仓自动追踪域名.js"
+            "api": "./js/drpy2.min.js",
+            "ext": "./js/黄仓自动追踪域名.js"
         },
         {
             "key": "黄色仓库",
             "name": "🔞黄色仓库动态py",
             "type": 3,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/py/黄色仓库动态.py",
+            "api": "./py/黄色仓库动态.py",
             "style": {
                 "type": "rect",
                 "ratio": 1.33
@@ -1915,11 +1915,11 @@
             "name": "🔞黄色仓库123",
             "type": 3,
             "api": "csp_XYQHiker",
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/jar/xyq.jar",
+            "jar": "./jar/xyq.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/json/黄色仓库123.json",
+            "ext": "./json/黄色仓库123.json",
             "style": {
                 "type": "rect",
                 "ratio": 1.6
@@ -1994,7 +1994,7 @@
         "bilibili",
         "renrenmi"
     ],
-    "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/wqvbka654-dotcom/cfty/refs/heads/main/jar/jar.jar",
+    "spider": "./jar/jar.jar",
     "notice": "细节决定专业，实用才是王道！---CFTY",
     "logo": "https://img.baidu.re/i/2026/01/sr0l49.jpg"
 }
