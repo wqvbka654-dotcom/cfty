@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/vox.jar;md5;ccbbaf9a8eb24e3c710884cb82b668f2",
+    "spider": "./jar/vox.jar;md5;4d44b62ac25442e0f2c1c08d0f54150b",
     "notice": "❤️天扬网盘在线❤️",
     "logo": "./logo.png",
     "sites": [
@@ -208,17 +208,17 @@
             }
         },
         {
-            "key": "csp_GuanYing",
-            "name": "😂观影┃4K",
+            "key": "csp_PingLian",
+            "name": "😃盘链┃4K",
             "type": 3,
-            "api": "csp_GuanYing",
+            "api": "csp_PingLian",
             "searchable": 1,
             "changeable": 1,
             "timeout": 60,
             "ext": {
                 "cookie": "",
-                "filters": "./json/guanying.json",
-                "sites": "https://www.xn--kivn76b41nnhi.com/,https://www.xn--10vr61a3xc5x3b.com/,https://www.xn--dpqv20e8ug6r8a.com/,https://www.xn--74qz10cqsltibh40akss.com/"
+                "filters": "http://rihou.cc:88/json/pinglian.json",
+                "sites": "https://pinglian.lol"
             }
         },
         {
