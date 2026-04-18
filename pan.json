@@ -1,11 +1,10 @@
 {
-    "spider": "https://gh-proxy.org/https://github.com/wqvbka654-dotcom/vod/blob/main/jar/vox.jar;md5;4d44b62ac25442e0f2c1c08d0f54150b",
-    "notice": "❤️天扬网盘在线❤️",
+    "spider": "./jar/vox.jar;md5;6e8c08937e29e3ed3e03d44e128cdf55",
     "logo": "./logo.png",
     "sites": [
         {
             "key": "csp_Douban",
-            "name": "❤️天扬网盘在线❤️",
+            "name": "❤️天扬网盘在线",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0,
@@ -16,7 +15,7 @@
         },
         {
             "key": "csp_Config",
-            "name": "😊配置┃中心",
+            "name": "💞网盘登录系统💞",
             "type": 3,
             "api": "csp_Config",
             "searchable": 0,
@@ -36,7 +35,7 @@
         },
         {
             "key": "csp_PanShareUC",
-            "name": "🆘呦西┃网盘",
+            "name": "🆘优熙┃网盘",
             "type": 3,
             "api": "csp_PanShareUC",
             "searchable": 1,
@@ -83,8 +82,20 @@
             }
         },
         {
+            "key": "csp_PanShareAli",
+            "name": "🆘阿里┃网盘",
+            "type": 3,
+            "api": "csp_PanShareAli",
+            "searchable": 1,
+            "changeable": 0,
+            "timeout": 60,
+            "ext": {
+                "class": "./json/alishare.txt"
+            }
+        },
+        {
             "key": "csp_PanShareThunder",
-            "name": "🆘雷子┃网盘",
+            "name": "🆘阿雷┃网盘",
             "type": 3,
             "api": "csp_PanShareThunder",
             "searchable": 1,
@@ -108,7 +119,7 @@
         },
         {
             "key": "csp_PanSou",
-            "name": "🥺盘搜┃搜索",
+            "name": "🖤盘搜┃搜索",
             "type": 3,
             "hide": 1,
             "api": "csp_PanSou",
@@ -130,14 +141,13 @@
             "key": "csp_PgDouban",
             "name": "😊PG┃豆瓣",
             "type": 3,
-            "hide": 1,
             "api": "csp_PgDouban",
             "searchable": 1,
             "changeable": 1,
             "timeout": 60,
             "ext": {
                 "filters": "./json/douban.json",
-                "channel": "yunpan139,ydypzyfx,sbsbsnsqq,Q_dongman,yoyokuakeduanju,TG654TG,dianying4K,yeqingjie_GJG666,PanjClub,guoman4K,alyp_1,kuake_yppan,yunpanuc,BaiduCloudDisk,Baidu_Netdisk,bdwpzhpd,baidu_yppan,zyfb123,xx123pan,zyzhpd123,yp123pan,cloudtianyi,txtyzy,peccxinpd,yunpan189,tianyirigeng,tyypzhpd,shareAliyun,zaihuayun,ali_yppan"
+                "channel": "Tgsearchers6,yunpan139,yggpan,xunlei_yppan,yunpanxunlei,yunpanuc,shareAliyun,yunpan189,BaiduCloudDisk,Channel_Shares_115,gimy115,ydypzyfx,dianying4K,sbsbsnsqq,Q_dongman,ysmffx,XiangxiuNBB,yoyokuakeduanju,yeqingjie_GJG666,TG654TG,PanjClub,guoman4K,alyp_1,kuake_yppan,Baidu_Netdisk,bdwpzhpd,baidu_yppan,zyfb123,xx123pan,zyzhpd123,yp123pan,cloudtianyi,txtyzy,peccxinpd,tianyirigeng,tyypzhpd,zaihuayun,ali_yppan"
             }
         },
         {
@@ -217,7 +227,7 @@
             "timeout": 60,
             "ext": {
                 "cookie": "",
-                "filters": "http://rihou.cc:88/json/pinglian.json",
+                "filters": "./json/pinglian.json",
                 "sites": "https://pinglian.lol"
             }
         },
@@ -390,17 +400,6 @@
             "api": "https://so.yinpai.xyz/duanju.php?type=dquark"
         },
         {
-            "key": "csp_Kan90",
-            "name": "😇最全┃短剧",
-            "type": 3,
-            "api": "csp_Kan90",
-            "timeout": 60,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "类型": "短剧"
-        },
-        {
             "key": "夸克短剧",
             "name": "🌽夸克┃短剧",
             "type": 3,
@@ -454,7 +453,7 @@
         },
         {
             "key": "米盘搜索",
-            "name": "🌾米盘┃搜索",
+            "name": "🖤米盘┃搜索",
             "type": 3,
             "timeout": 60,
             "api": "./js/drpy2.min.js",
@@ -477,6 +476,15 @@
             "searchable": 1,
             "hide": 1,
             "type": 3
+        },
+        {
+            "key": "商店",
+            "name": "🤡商店┃更新",
+            "type": 3,
+            "api": "csp_Market",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": "http://rihou.cc:88/json/market.json"
         },
         {
             "key": "push_agent",
@@ -527,6 +535,26 @@
                 "1.0.0.1",
                 "2606:4700:4700::1111",
                 "2606:4700:4700::1001"
+            ]
+        },
+        {
+            "name": "Tencent",
+            "url": "https://doh.pub/dns-query",
+            "ips": [
+                "1.12.12.12",
+                "120.53.53.53",
+                "2402:4e00::",
+                "2402:4e00:1::"
+            ]
+        },
+        {
+            "name": "360DNS",
+            "url": "https://doh.360.cn/dns-query",
+            "ips": [
+                "101.226.4.6",
+                "218.30.118.6",
+                "123.125.81.6",
+                "140.207.198.6"
             ]
         },
         {
