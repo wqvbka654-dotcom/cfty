@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/vox.jar;md5;6e8c08937e29e3ed3e03d44e128cdf55",
+    "spider": "./jar/vox.jar;md5;b8f3844921adbbb462639e1535202b09",
     "logo": "./logo.png",
     "sites": [
         {
@@ -103,6 +103,18 @@
             "timeout": 60,
             "ext": {
                 "class": "./json/thundershare.txt"
+            }
+        },
+        {
+            "key": "csp_PanShareGy",
+            "name": "🆘鸭子┃网盘",
+            "type": 3,
+            "api": "csp_PanShareGy",
+            "searchable": 1,
+            "changeable": 0,
+            "timeout": 30,
+            "ext": {
+                "class": "./json/guangyashare.txt"
             }
         },
         {
